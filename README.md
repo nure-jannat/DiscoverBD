@@ -31,3 +31,24 @@ These are Screenshots for user section:
 
 ![dis10](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/29274229-97a8-4928-b519-8026556ca68b)
 
+
+These are Screenshots for admin section: 
+
+
+![dis11](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/42f79cc8-1282-48c7-9130-13554c097a37)
+
+![dis12](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/e8cf1ae8-f30c-47c8-a925-36864b6d1873)
+
+![dis13](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/a5425bf2-ff19-4da3-8acd-567cbbf6376a)
+
+![dis14](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/86ca8a3c-6763-4d3c-9d43-0c8f22eff51f)
+
+![dis15](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/d65b0228-ed34-44d4-873f-e41867ff1af0)
+
+![dis16](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/57e02c18-0364-4c4c-a9a7-6f7b5c36929b)
+
+![dis17](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/66242b63-00c2-4b28-a8d1-b3583493af9e)
+
+
+
+
