@@ -12,3 +12,15 @@ history and maintaing user access contol.
 
 ![dis4](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/3faff3d7-315c-4ae6-bbde-577cd2961bb0)
 
+![dis5](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/cc9e2502-17a3-4c60-9fd8-c8d3f7ddeeba)
+
+![dis6](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/52dcbd70-687b-479a-afd1-8b738636595f)
+
+![dis7](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/50d159ab-942d-4a55-89ff-3b15df2226d4)
+
+![dis8](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/f2ff9b1c-23ac-4c52-89a1-e9286983eabc)
+
+![dis9](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/756c568a-2a55-4e9f-869e-a893fe064dda)
+
+![dis10](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/29274229-97a8-4928-b519-8026556ca68b)
+
