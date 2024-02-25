@@ -3,6 +3,9 @@ DiscoverBD is a web-based application for travel package booking. The user can b
 register with email in the website for booking different travel package. The admin is resposible for adding new travel package, edit existing packages, view booking 
 history and maintaing user access contol. 
 
+Here are some Screenshots for the project:
+
+The 1st 4 Screenshots are general page in this web project.
 
 ![dis1](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/c808903e-4267-4978-9ccf-d16387ff69d8)
 
@@ -11,6 +14,10 @@ history and maintaing user access contol.
 ![dis3](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/d9176e27-bb60-41a1-92c7-09d272ae63bc)
 
 ![dis4](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/3faff3d7-315c-4ae6-bbde-577cd2961bb0)
+
+
+These are Screenshots for user section: 
+
 
 ![dis5](https://github.com/nure-jannat/Elaborate-Marksheet-using-PHP-HTML-CSS/assets/106591934/cc9e2502-17a3-4c60-9fd8-c8d3f7ddeeba)
 
